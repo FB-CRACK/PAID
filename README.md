@@ -1,7 +1,6 @@
 # PAID #
 
-∞ UID CLONE ∞ 
-∞ OLD ID CLONE ∞
+∞ UID CLONE ∞ OLD ID CLONE ∞
 
 --Tools Use For Paid--
 
